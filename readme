@@ -1,1 +1,3 @@
-wat
+Example whiteboard canvas using websockets - code modified from https://github.com/wesbos/websocket-canvas-draw to work with express.js server and with jquery drag 2.2. 
+
+
